@@ -50,7 +50,7 @@ Client code stays in private repositories, so the live sites below are the best 
   </tr>
 </table>
 
-Built by [Adam Boruta](https://github.com/zunk0), full-stack developer, and the Coduet team.
+Coduet was founded by [Adam Boruta](https://github.com/zunk0), who leads development and builds these projects with the team.
 
 ## How we build
 
